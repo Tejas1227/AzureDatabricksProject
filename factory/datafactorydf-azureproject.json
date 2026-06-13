@@ -1,0 +1,15 @@
+{
+	"name": "datafactorydf-azureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c8e6056-703e-448a-8156-9e16db441953",
+		"tenantId": "75883c2d-9f3a-4bc1-8aec-3b1d8b9a8301"
+	}
+}
